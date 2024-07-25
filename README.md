@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Creator-Kami%20(nothosted)-8300FF">
-  <img src="https://img.shields.io/badge/version-1.0-8300FF">
-  <img src="https://img.shields.io/github/stars/nothosted/revsersedtool?style=flat&label=Stars&color=8300FF">
-  <img src="https://img.shields.io/github/languages/top/nothosted/revsersedtool?color=8300FF">
+  <img src="https://img.shields.io/badge/Creator-Kami%20(nothosted)-green">
+  <img src="https://img.shields.io/badge/version-1.0-green">
+  <img src="https://img.shields.io/badge/language-python-white">
 </p>
 
 ---
